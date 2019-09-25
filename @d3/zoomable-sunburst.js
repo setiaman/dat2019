@@ -104,7 +104,6 @@ This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the
 }
 );
   main.variable(observer("data")).define("data", ["d3"], function(d3){return(
-//d3.json("https://raw.githubusercontent.com/d3/d3-hierarchy/v1.1.8/test/data/flare.json")
     d3.json("https://raw.githubusercontent.com/setiamanlhc/dat2019/master/SunBurst/visitor.json")
 )});
   main.variable(observer("partition")).define("partition", ["d3"], function(d3){return(
