@@ -1,108 +1,108 @@
-{ "Name": "Flare",  
+{ "name": "Flare",  
   "children":
    [
     {
-        "Name": "India",
+        "name": "India",
         "children": [
             {
-                "Name": "2018",
-                "Value": 1442277
+                "name": "2018",
+                "value": 1442277
             },
             {
-                "Name": "2017",
-                "Value": 1272077
+                "name": "2017",
+                "value": 1272077
             },
             {
-                "Name": "2016",
-                "Value": 1097200
+                "name": "2016",
+                "value": 1097200
             },
             {
-                "Name": "2015",
-                "Value": 1013986
+                "name": "2015",
+                "value": 1013986
             }
         ]
     },
     {
-        "Name": "Australia",
+        "name": "Australia",
         "children": [
             {
-                "Name": "2018",
-                "Value": 1107224
+                "name": "2018",
+                "value": 1107224
             },
             {
-                "Name": "2017",
-                "Value": 1082001
+                "name": "2017",
+                "value": 1082001
             },
             {
-                "Name": "2016",
-                "Value": 1027314
+                "name": "2016",
+                "value": 1027314
             },
             {
-                "Name": "2015",
-                "Value": 1043568
+                "name": "2015",
+                "value": 1043568
             }
         ]
     },
     {
-        "Name": "Malaysia",
+        "name": "Malaysia",
         "children": [
             {
-                "Name": "2018",
-                "Value": 1254022
+                "name": "2018",
+                "value": 1254022
             },
             {
-                "Name": "2017",
-                "Value": 1168384
+                "name": "2017",
+                "value": 1168384
             },
             {
-                "Name": "2016",
-                "Value": 1151584
+                "name": "2016",
+                "value": 1151584
             },
             {
-                "Name": "2015",
-                "Value": 1171077
+                "name": "2015",
+                "value": 1171077
             }
         ]
     },
     {
-        "Name": "Indonesia",
+        "name": "Indonesia",
         "children": [
             {
-                "Name": "2018",
-                "Value": 3021455
+                "name": "2018",
+                "value": 3021455
             },
             {
-                "Name": "2017",
-                "Value": 2954400
+                "name": "2017",
+                "value": 2954400
             },
             {
-                "Name": "2016",
-                "Value": 2893646
+                "name": "2016",
+                "value": 2893646
             },
             {
-                "Name": "2015",
-                "Value": 2731690
+                "name": "2015",
+                "value": 2731690
             }
         ]
     },
     {
-        "Name": "China",
+        "name": "China",
         "children": [
             {
-                "Name": "2018",
-                "Value": 3417604
+                "name": "2018",
+                "value": 3417604
             },
             {
-                "Name": "2017",
-                "Value": 3228134
+                "name": "2017",
+                "value": 3228134
             },
             {
-                "Name": "2016",
-                "Value": 2863669
+                "name": "2016",
+                "value": 2863669
             },
             {
-                "Name": "2015",
-                "Value": 2106164
+                "name": "2015",
+                "value": 2106164
             }
         ]
     }
