@@ -1,11 +1,11 @@
 // https://observablehq.com/@d3/zoomable-sunburst@343
 export default function define(runtime, observer) {
   const main = runtime.module();
-  main.variable(observer()).define(["md"], function(md){return(
-md`# Visitor Sunburst
+//  main.variable(observer()).define(["md"], function(md){return(
+//md`# Visitor Sunburst
 
-This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the hierarchy at a time. Click a node to zoom in, or the center to zoom out. Compare to an [icicle](/@d3/zoomable-icicle).`
-)});
+//This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the hierarchy at a time. Click a node to zoom in, or the center to zoom out. Compare to an [icicle](/@d3/zoomable-icicle).`
+//)});
   main.variable(observer("chart")).define("chart", ["partition","data","d3","width","color","arc","format","radius"], function(partition,data,d3,width,color,arc,format,radius)
 {
   const root = partition(data);
